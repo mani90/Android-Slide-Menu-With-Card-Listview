@@ -5,6 +5,8 @@ Android Sample Code for Navigation Drawer (Sliding Menu) with two fragments.
 
 All Fragments have sample Listview with Card style UI.
 
+Also Custom ArrayAdapter and PUSH_LEFT_IN ListView Animation
+
 
 Requirement
 ===========
