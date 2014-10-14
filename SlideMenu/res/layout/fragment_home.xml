@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#e2e4fe">
+    
+    <ListView 
+        android:id="@+id/card_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null"
+        android:dividerHeight="2dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:listSelector="@android:color/transparent"
+        android:cacheColorHint="@android:color/transparent"/>
+
+</LinearLayout>
